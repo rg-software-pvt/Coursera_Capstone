@@ -2,8 +2,8 @@
 # Segmenting and Clustering Neighborhoods in Fredericton, NB
 ## Applied Data Science Capstone Week 5 Peer-Graded Project Report
 
-By Jason L. Urquhart
-December 20, 2018
+By Rohit Gupta
+April 13, 2019
 
 ## Introduction to the opportunity
 Fredericton is the Capital City of the only Canadian fully-bilingual Province of New Brunswick and is beautifully located on the banks of the Saint John River.  While one of the least populated provincial capital cities with a population base of less than 60 thousand residents, it offers a wide spectrum of venues and is a governement, university and cultural hub.  
@@ -11835,7 +11835,7 @@ fredericton_c_map
 ```python
 CLIENT_ID = 'Nope' # your Foursquare ID
 CLIENT_SECRET = 'Secret' # your Foursquare Secret
-VERSION = '20181201' # Foursquare API version
+VERSION = '20190413' # Foursquare API version
 
 print('Your credentails:')
 print('CLIENT_ID: ' + CLIENT_ID)
